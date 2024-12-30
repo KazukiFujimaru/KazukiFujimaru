@@ -1,8 +1,8 @@
 <h1> Seems like you wander too much, how did you find this ? </h1>
 
-Here you find just someone you might have met everyday. 
-Undergraduate of Infromation Technology major
-Interested in weeb stuff (Anime, Manga, LN, VN, Anime themed game, you name it), gaming stuff (Laptop, and Android. Playing anything i interested in), and reading stuff (game lore, good books, and also ocassionally writing poems)
+Here you find just someone you might have met everyday. <br><br>
+Undergraduate of Infromation Technology major <br><br>
+Interested in weeb stuff (Anime, Manga, LN, VN, Anime themed game, you name it), gaming stuff (Laptop, and Android. Playing anything i interested in), and reading stuff (game lore, good books, and also ocassionally writing poems) <br>
 
 Kazuki Fujimaru, inspired from Fate Grand/Order protagonist, namely Fujimaru Ritsuka. Kinda referencing how reading FGO story is the base point of my overall characters nowadays.
 Kazuki itself come from MMORPG name i finally settle on after various iteration
@@ -15,7 +15,7 @@ Basically my nickname is just Kazuki FGO '<'
 -  I’m looking to collaborate on ... something bigger than myself, if that make sense.
 - 🤔 I’m looking for help with ... evertything. Pretty lost here.
 
-You could contact me in:
-Discord - zectorfracs (easiest to contact since frequently connected to internet while opening laptop)
-Instagram - @re_alizu
+You could contact me in:<br>
+Discord - zectorfracs (easiest to contact since frequently connected to internet while opening laptop)<br>
+Instagram - @re_alizu<br>
 Facebook - Kazuki Fujimaru
