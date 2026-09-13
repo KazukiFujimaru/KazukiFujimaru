@@ -18,4 +18,3 @@ Basically my nickname is just Kazuki FGO '<'
 You could contact me in:<br>
 Discord - zectorfracs (easiest to contact since frequently connected to internet while opening laptop)<br>
 Instagram - @re_alizu<br>
-Facebook - Kazuki Fujimaru
